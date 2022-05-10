@@ -2,9 +2,10 @@
 
 ##Executing python scripts in windows :
 
-Syntax :  
-        <full path of the python.exe file>  <full path of the .py script file>
+Syntax :  <full path of the python.exe file>  <full path of the .py script file>
+        
 e.g  : - 
+        
 D:\Users\Ritesh\AppData\Local\Programs\Python\Python38-32\python.exe D:\Users\Ritesh\Downloads\Project\Project1\test.py
 
 
