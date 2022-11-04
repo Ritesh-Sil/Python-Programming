@@ -19,3 +19,20 @@ Excercise for the Python RegEx :
 3. https://www.w3resource.com/python-exercises/re/
 4. https://regexlearn.com/learn/regex101
 5. 
+
+
+# Project Title
+
+A brief description of what this project does and who it's for
+
+-  What is importance of iterator?
+-  How for loop is executed upon an iterable?
+```
+for item in _list:
+    pass
+```
+Here list is an iterable, and when for loop is run upon an iterable
+then inherently iter() function is executed and iterator is created.
+In each step the next() function is being called to iterate over the sequence.
+
+- Iterable vs iterator
